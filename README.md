@@ -6,7 +6,7 @@ A fork of the (previously-MIT licensed) sniper by slow.
 # Features
 <img alt="img" align="right" src="https://user-images.githubusercontent.com/18328525/93030855-88a61f80-f626-11ea-882f-3136ca00d26e.png">
 
-- Beautiful colors to see quickly what you need to see.
+- Epic colors to see quickly what you need to see.
 - Multi-token support with all codes redeemed on your main.
 - Notifications from the mobile discord app work if you don't use your main account for sniping too.
 - Removes non-alphanumeric chars automatically from codes and tries to redeem.
